@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "It",
+        "directedBy": "Andy Muschietti ",
+        "released": "2017",
+        "image": "https://seanoneill.me/demos/images/it-movie.jpg",
+        "description": "A group of bullied kids band together when a shapeshifting demon, taking the appearance of clown, begins hunting children.",
+        "trailer": "https://www.youtube.com/embed/7no56Zw1e20"
+    },
+    {
+        "id": 2,
+        "name": "Dark Towers",
+        "directedBy": "Nikolaj Arcel",
+        "released": "2017",
+        "image": "https://seanoneill.me/demos/images/dark-tower.jpg",
+        "description": "The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O'Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black. ",
+        "trailer": "https://www.youtube.com/embed/GjwfqXTebIY"
+    },
+    {
+        "id": 3,
+        "name": "Despicable Me 3",
+        "directedBy": "Pierre Coffin, Kyle Balda",
+        "released": "2017",
+       "image": "https://seanoneill.me/demos/images/despicable.jpg",
+        "description": "The mischievous Minions hope that Gru will return to a life of crime after the new boss of the Anti-Villain League fires him. Instead, Gru decides to remain retired and travel to Freedonia to meet his long-lost twin brother for the first time. The reunited siblings soon find themselves in an uneasy alliance to take down the elusive Balthazar Bratt, a former 1980s child star who seeks revenge against the world.",
+        "trailer": "https://www.youtube.com/embed/euz-KBBfAAo"
+    },
+    {
+        "id": 4,
+        "name": "Dunkirk",
+        "directedBy": "Christopher Nolan",
+        "released": "2017",
+        "image": "https://seanoneill.me/demos/images/dunkirk.jpg",
+        "description": "Allied soldiers from Belgium, the British Empire and France are surrounded by the German army and evacuated during a fierce battle in World War II. ",
+        "trailer": "https://www.youtube.com/embed/F-eMt3SrfFU"
+    },
+    {
+        "id": 5,
+        "name": "Emoji Movie",
+        "directedBy": " Tony Leondis",
+        "released": "2017",
+        "image": "https://seanoneill.me/demos/images/emoji-movie.jpg",
+        "description": " Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.",
+        "trailer": "https://www.youtube.com/embed/r8pJt4dK_s4"
+    },
+    {
+        "id": 6,
+        "name": "Leap!",
+        "directedBy": "Eric Summer (as Éric Summer), Éric Warin",
+        "released": "2017",
+        "image": "https://seanoneill.me/demos/images/leap.jpg",
+        "description": "An orphan girl dreams of becoming a ballerina and flees her rural Brittany for Paris, where she passes for someone else and accedes to the position of pupil at the Grand Opera house.",
+        "trailer": "https://www.youtube.com/embed/GXiDCWxF30U"
+    },
+    {
+        "id": 7,
+        "name": "The Big Sick",
+        "directedBy": "Michael Showalter",
+        "released": "2017",
+        "image": "https://seanoneill.me/demos/images/the-big-sick.jpg",
+        "description": "Pakistan-born comedian Kumail Nanjiani and grad student Emily Gardner fall in love but struggle as their cultures clash. When Emily contracts a mysterious illness, Kumail finds himself forced to face her feisty parents, his family's expectations, and his true feelings.",
+        "trailer": "https://www.youtube.com/embed/jcD0Daqc3Yw"
+    },
+    {
+        "id": 8,
+        "name": "Cars 3",
+        "directedBy": " Brian Fee",
+        "released": "2017",
+       "image": "https://seanoneill.me/demos/images/cars3.jpg",
+       "description": "Lightning McQueen sets out to prove to a new generation of racers that he's still the best race car in the world.",
+       "trailer": "https://www.youtube.com/embed/ZuaseSovWDY"
+    },
+     {
+        "id": 9,
+        "name": "Annabelle: Creation",
+        "directedBy": "David F. Sandberg",
+        "released": "2017",
+        "image": "https://seanoneill.me/demos/images/annabelle.jpg",
+        "description": "12 years after the tragic death of their little girl, a dollmaker and his wife welcome a nun and several girls from a shuttered orphanage into their home, where they soon become the target of the dollmaker's possessed creation, Annabelle.",
+        "trailer": "https://www.youtube.com/embed/KisPhy7T__Q"
+    },
+    {
+        "id": 10,
+        "name": "Kingsman: The Golden Circle",
+        "directedBy": "Jennifer Kent",
+        "released": "2017",
+        "image": "https://seanoneill.me/demos/images/kingsmen.jpg",
+        "description": "With their headquarters destroyed and the world held hostage, members of Kingsman find new allies when they discover a spy organization in the United States known as Statesman. In an adventure that tests their strength and wits, the elite secret agents from both sides of the pond band together to battle a ruthless enemy and save the day, something that's becoming a bit of a habit for Eggsy.",
+        "trailer": "https://www.youtube.com/embed/0fvqnGmr9S8"
+    }
+]

@@ -1,0 +1,88 @@
+/* CSS for React Movie App 2017 - seanoneill.me */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h2 { 
+  display:inline-block;
+  padding: 10px;
+  padding-right: 20px;
+ }
+.App{
+  width: 900px;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li img {
+  float: left;
+  margin: 10px;
+  border: 5px solid #fff;
+}
+
+
+/* CSS for single movie page */
+.website { 
+  float:right; 
+}
+
+a {
+  text-decoration: none;
+  color: #0059B2;
+}
+
+.movie-container {
+  max-width: 750px;
+  border: solid 1px #ddd;
+  padding: 10px 10px 0;
+  margin: 20px auto;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 0 20px #ddd;
+}
+
+.image { 
+  width: 100px; 
+  height: auto; 
+  float: left; 
+  margin-bottom: 10px 
+}
+
+.image > img { 
+  max-width: 100%; 
+  height: auto; 
+  display: block; 
+}
+
+.content { 
+  margin-left: 110px; 
+  padding: 5px 0; 
+}
+
+.content > h1 { 
+  color: black;
+  font-size: 1.6em; 
+  display: inline-block; 
+  margin-right: 5px; 
+  font-weight: 600 
+}
+
+.content .details > p {
+   color: #999; 
+   margin-bottom: 10px; 
+  }
+
+.content > .year { 
+  display: inline-block; 
+}
+
+.footer { 
+  border-top: solid 1px #ddd; 
+  line-height: 31px;
+  padding-top: 5px; 
+}
