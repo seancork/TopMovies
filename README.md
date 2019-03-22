@@ -1,5 +1,5 @@
 # TopMovies-ReactApp
-A movie application that shows the top ten movies and when a movie is clicked it displays some information on the movie clicked.
+A movie application that shows the top nine movies and when a movie is clicked it displays some information on that movie.
 
-#Demo 
+# Demo
 https://topmovies.herokuapp.com/
